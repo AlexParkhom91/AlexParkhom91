@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name Alexander Parkhamovich
+I'm Alexander Parkhamovich
 
 I'm Junior iOS developer
 
