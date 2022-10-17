@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name Alexander Parkhamovich
+I'm Junior iOS developer
 
 <!--
 **AlexParkhom91/AlexParkhom91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
