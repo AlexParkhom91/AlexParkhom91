@@ -18,6 +18,7 @@ living in Batumi, Georgia</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexParkhom91&show_icons=true&locale=en&layout=compact" alt="AlexParkhom91" /></p> <p> </p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexParkhom91&show_icons=true&locale=en" alt="AlexParkhom91" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexParkhom91&" alt="AlexParkhom91" /></p>
