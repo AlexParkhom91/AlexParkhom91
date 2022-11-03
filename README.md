@@ -9,7 +9,7 @@ living in Batumi, Georgia</h3>
 <a href="https://www.linkedin.com/in/alexander-parkhamovich-2aa692244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AlexParkhom91" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alex_parkhom91/?igshid=YmMyMTA2M2Y%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AlexParkhom91" height="30" width="40" /></a>
 <a href="https://t.me/parkhom91" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="AlexParkhom91" height="30" width="40" /></a>
-<a href="https://parkhom91work@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="AlexParkhom91" height="30" width="40" /></a>
+<a href="mailto:parkhom91work@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="AlexParkhom91" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
