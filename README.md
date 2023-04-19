@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Parkhamovich</h1>
-<h3 align="center">junior IOS Developer, 
+<h3 align="center">IOS Developer, 
 location: Minsk, Belarus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexParkhom91&label=Profile%20views&color=0e75b6&style=flat" alt="AlexParkhom91" /> </p>
